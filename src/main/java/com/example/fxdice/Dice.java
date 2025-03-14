@@ -17,4 +17,4 @@ public class Dice {
         return this.number;
     }
 }
-// テスト
+// テスト　
